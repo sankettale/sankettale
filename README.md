@@ -2,7 +2,7 @@
 - 👀 I’m interested in make a website
 - 🌱 I’m currently learning Laravel, Wordpress and Reactjs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://github.com/sankettale
 
 <!---
 sankettale/sankettale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
